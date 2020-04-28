@@ -1,0 +1,1 @@
+Simulation of the adaptive noise canceler with primary channel and reference channel
