@@ -2,6 +2,7 @@
 Automotive Radar Interference Mitigation Using Adaptive Noise Canceller
 
 Please cite this work as:
+
 [F. Jin and S. Cao, "Automotive Radar Interference Mitigation Using Adaptive Noise Canceller," in IEEE Transactions on Vehicular Technology, vol. 68, no. 4, pp. 3747-3754, April 2019, doi: 10.1109/TVT.2019.2901493.](https://ieeexplore.ieee.org/abstract/document/8651538)
 
 ## Project Description
